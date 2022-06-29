@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [URL HERE](https://www.frontendmentor.io/solutions/css-grid-jX7tbZEpHm)
+- Live Site URL: [URL HERE](https://mbenmasour95.github.io/Testimonials-Grid-Section/)
 
 ## My process
 
